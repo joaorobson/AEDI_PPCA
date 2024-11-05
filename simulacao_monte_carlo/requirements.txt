@@ -1,0 +1,7 @@
+notebook
+nltk
+numpy
+scipy
+plotly
+pandas
+ipywidgets
