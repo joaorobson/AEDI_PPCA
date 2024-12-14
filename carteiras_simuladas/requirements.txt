@@ -1,0 +1,7 @@
+notebook
+pandas
+streamlit
+stqdm
+yfinance
+plotly
+ipywidgets
